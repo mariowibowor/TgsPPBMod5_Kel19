@@ -1,0 +1,35 @@
+.detail-container {
+    margin: 0.5rem;
+    color: white;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.detail-title {
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.detail {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.genre {
+    font-size: 0.8rem;
+}
+
+.detail-container img {
+    width: 200px;
+    border-radius: 8px;
+}
+
+.detail-title h1 {
+    color: white;
+}
+
+.detail-container p {
+    color: white;
+}
